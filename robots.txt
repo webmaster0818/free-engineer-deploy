@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://free-engineer-hub.com/sitemap.xml
+Sitemap: https://freelancerengineers.com/sitemap.xml
