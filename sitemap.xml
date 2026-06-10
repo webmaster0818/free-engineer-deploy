@@ -460,4 +460,12 @@
   <url><loc>https://freelancerengineers.com/role/sre/</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/role/mobile-engineer/</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/role/fullstack-engineer/</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/skill/csharp-dotnet/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/skill/rust/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/skill/kubernetes/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/skill/terraform/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/skill/generative-ai/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/skill/nodejs/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/skill/salesforce/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/skill/scala/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
 </urlset>
