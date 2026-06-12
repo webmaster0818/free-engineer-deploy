@@ -29,7 +29,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://freelancerengineers.com/agent/findy/</loc>
+    <loc>https://freelancerengineers.com/agent/findy-freelance/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -39,12 +39,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://freelancerengineers.com/agent/foster/</loc>
+    <loc>https://freelancerengineers.com/agent/foster-freelance/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://freelancerengineers.com/agent/geeks-job/</loc>
+    <loc>https://freelancerengineers.com/agent/geechs-job/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -468,4 +468,7 @@
   <url><loc>https://freelancerengineers.com/skill/nodejs/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/skill/salesforce/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/skill/scala/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/about/</loc><lastmod>2026-06-12</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://freelancerengineers.com/privacy-policy/</loc><lastmod>2026-06-12</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://freelancerengineers.com/content-policy/</loc><lastmod>2026-06-12</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
 </urlset>
