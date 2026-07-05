@@ -218,6 +218,7 @@
   </url>
 
   <!-- Useful guide pages (10) -->
+  <url><loc>https://freelancerengineers.com/useful/kaigyo-todoke/</loc><lastmod>2026-07-05</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url>
     <loc>https://freelancerengineers.com/useful/agent-margin/</loc>
     <lastmod>2026-07-05</lastmod>
@@ -230,7 +231,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://freelancerengineers.com/useful/invoice-system/</loc>
+    <loc>https://freelancerengineers.com/useful/invoice-system/</loc><lastmod>2026-07-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
