@@ -475,6 +475,8 @@
     <priority>0.8</priority>
   </url>
   <url><loc>https://freelancerengineers.com/role/</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/role/data-engineer/</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/role/qa-engineer/</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/role/frontend-engineer/</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/role/backend-engineer/</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/role/infrastructure-engineer/</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
