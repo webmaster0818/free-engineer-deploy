@@ -121,6 +121,7 @@
   </url>
   <url>
     <loc>https://freelancerengineers.com/skill/ruby/</loc>
+    <lastmod>2026-08-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -221,6 +222,7 @@
   </url>
 
   <!-- Useful guide pages (10) -->
+  <url><loc>https://freelancerengineers.com/useful/matsuro/</loc><lastmod>2026-08-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://freelancerengineers.com/useful/junini-ukeoi/</loc><lastmod>2026-07-06</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://freelancerengineers.com/useful/freelance-rosai-tokubetsu-kanyu/</loc><lastmod>2026-07-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://freelancerengineers.com/useful/freelance-kenko-hoken-sentaku/</loc><lastmod>2026-07-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -496,7 +498,7 @@
   <url><loc>https://freelancerengineers.com/role/sre/</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/role/mobile-engineer/</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/role/fullstack-engineer/</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://freelancerengineers.com/skill/csharp-dotnet/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/skill/csharp-dotnet/</loc><lastmod>2026-08-16</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/skill/rust/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/skill/kubernetes/</loc><lastmod>2026-07-04</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/skill/terraform/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
