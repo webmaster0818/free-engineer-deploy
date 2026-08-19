@@ -222,6 +222,7 @@
   </url>
 
   <!-- Useful guide pages (10) -->
+  <url><loc>https://freelancerengineers.com/useful/yametoke/</loc><lastmod>2026-08-20</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://freelancerengineers.com/useful/matsuro/</loc><lastmod>2026-08-16</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://freelancerengineers.com/useful/junini-ukeoi/</loc><lastmod>2026-07-06</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://freelancerengineers.com/useful/freelance-rosai-tokubetsu-kanyu/</loc><lastmod>2026-07-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -357,6 +358,24 @@
     <loc>https://freelancerengineers.com/compare/beginner-top5/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://freelancerengineers.com/compare/techstock-vs-levtech/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://freelancerengineers.com/compare/pebank-vs-midworks/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://freelancerengineers.com/compare/midworks-vs-geechs/</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 
   <!-- Career / acquisition guide pages (10) -->
