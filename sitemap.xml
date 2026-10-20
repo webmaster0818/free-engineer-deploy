@@ -246,7 +246,7 @@
   </url>
   <url>
     <loc>https://freelancerengineers.com/workstyle/overseas-remote/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -306,7 +306,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://freelancerengineers.com/useful/rate-negotiation/</loc><lastmod>2026-10-17</lastmod>
+    <loc>https://freelancerengineers.com/useful/rate-negotiation/</loc><lastmod>2026-10-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -543,7 +543,7 @@
   </url>
   <url>
     <loc>https://freelancerengineers.com/region/regional/</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -589,12 +589,12 @@
   <url><loc>https://freelancerengineers.com/role/fullstack-engineer/</loc><lastmod>2026-10-20</lastmod><priority>0.7</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/skill/csharp-dotnet/</loc><lastmod>2026-10-20</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/skill/rust/</loc><lastmod>2026-10-17</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://freelancerengineers.com/skill/kubernetes/</loc><lastmod>2026-10-17</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/skill/kubernetes/</loc><lastmod>2026-10-20</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/skill/terraform/</loc><lastmod>2026-10-17</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/skill/generative-ai/</loc><lastmod>2026-10-20</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/skill/nodejs/</loc><lastmod>2026-10-20</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/skill/salesforce/</loc><lastmod>2026-10-17</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://freelancerengineers.com/skill/scala/</loc><lastmod>2026-10-17</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/skill/scala/</loc><lastmod>2026-10-20</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/about/</loc><lastmod>2026-10-17</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <url><loc>https://freelancerengineers.com/privacy-policy/</loc><lastmod>2026-06-16</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <url><loc>https://freelancerengineers.com/content-policy/</loc><lastmod>2026-10-17</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
