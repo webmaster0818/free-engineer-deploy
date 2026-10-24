@@ -352,7 +352,7 @@
   <!-- Compare pages (existing 5) -->
   <url>
     <loc>https://freelancerengineers.com/compare/levtech-vs-midworks/</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -376,7 +376,7 @@
   </url>
   <url>
     <loc>https://freelancerengineers.com/compare/remote-comparison/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -384,7 +384,7 @@
   <!-- Compare pages (new 5) -->
   <url>
     <loc>https://freelancerengineers.com/compare/levtech-vs-pebank/</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -420,13 +420,13 @@
   </url>
   <url>
     <loc>https://freelancerengineers.com/compare/pebank-vs-midworks/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://freelancerengineers.com/compare/midworks-vs-geechs/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -551,13 +551,13 @@
   <!-- Market / salary data pages (5) -->
   <url>
     <loc>https://freelancerengineers.com/market/language-ranking/</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freelancerengineers.com/market/framework-ranking/</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -574,7 +574,7 @@
   </url>
   <url>
     <loc>https://freelancerengineers.com/market/market-trend-2026/</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
