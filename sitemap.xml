@@ -301,7 +301,7 @@
   </url>
   <url>
     <loc>https://freelancerengineers.com/useful/anxiety/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -578,15 +578,15 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url><loc>https://freelancerengineers.com/role/</loc><lastmod>2026-10-17</lastmod><priority>0.7</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://freelancerengineers.com/role/data-engineer/</loc><lastmod>2026-10-23</lastmod><priority>0.7</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://freelancerengineers.com/role/qa-engineer/</loc><lastmod>2026-10-23</lastmod><priority>0.7</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://freelancerengineers.com/role/frontend-engineer/</loc><lastmod>2026-10-26</lastmod><priority>0.7</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://freelancerengineers.com/role/backend-engineer/</loc><lastmod>2026-10-26</lastmod><priority>0.7</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://freelancerengineers.com/role/infrastructure-engineer/</loc><lastmod>2026-10-26</lastmod><priority>0.7</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://freelancerengineers.com/role/sre/</loc><lastmod>2026-10-23</lastmod><priority>0.7</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://freelancerengineers.com/role/mobile-engineer/</loc><lastmod>2026-10-26</lastmod><priority>0.7</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://freelancerengineers.com/role/fullstack-engineer/</loc><lastmod>2026-10-26</lastmod><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/role/</loc><lastmod>2026-10-27</lastmod><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/role/data-engineer/</loc><lastmod>2026-10-27</lastmod><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/role/qa-engineer/</loc><lastmod>2026-10-27</lastmod><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/role/frontend-engineer/</loc><lastmod>2026-10-27</lastmod><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/role/backend-engineer/</loc><lastmod>2026-10-27</lastmod><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/role/infrastructure-engineer/</loc><lastmod>2026-10-27</lastmod><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/role/sre/</loc><lastmod>2026-10-27</lastmod><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/role/mobile-engineer/</loc><lastmod>2026-10-27</lastmod><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/role/fullstack-engineer/</loc><lastmod>2026-10-27</lastmod><priority>0.7</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/skill/csharp-dotnet/</loc><lastmod>2026-10-26</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/skill/rust/</loc><lastmod>2026-10-23</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/skill/kubernetes/</loc><lastmod>2026-10-23</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
@@ -598,7 +598,7 @@
   <url><loc>https://freelancerengineers.com/about/</loc><lastmod>2026-10-17</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <url><loc>https://freelancerengineers.com/privacy-policy/</loc><lastmod>2026-06-16</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <url><loc>https://freelancerengineers.com/content-policy/</loc><lastmod>2026-10-17</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://freelancerengineers.com/report/</loc><lastmod>2026-10-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://freelancerengineers.com/report/</loc><lastmod>2026-10-23</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://freelancerengineers.com/methodology/</loc><lastmod>2026-10-17</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
 
   <url><loc>https://freelancerengineers.com/career-agents/</loc><lastmod>2026-10-17</lastmod><priority>0.7</priority><changefreq>monthly</changefreq></url>
