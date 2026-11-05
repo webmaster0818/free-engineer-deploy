@@ -104,25 +104,25 @@
   <!-- Skill pages (original 5) -->
   <url>
     <loc>https://freelancerengineers.com/skill/java/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freelancerengineers.com/skill/python/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freelancerengineers.com/skill/react/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://freelancerengineers.com/skill/aws/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -141,13 +141,13 @@
   </url>
   <url>
     <loc>https://freelancerengineers.com/skill/ruby/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://freelancerengineers.com/skill/go/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -165,12 +165,12 @@
   </url>
   <url>
     <loc>https://freelancerengineers.com/skill/ios-swift/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://freelancerengineers.com/skill/android-kotlin/</loc><lastmod>2026-11-04</lastmod>
+    <loc>https://freelancerengineers.com/skill/android-kotlin/</loc><lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -182,12 +182,12 @@
   </url>
   <url>
     <loc>https://freelancerengineers.com/skill/infra-linux/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://freelancerengineers.com/skill/sap/</loc><lastmod>2026-11-04</lastmod>
+    <loc>https://freelancerengineers.com/skill/sap/</loc><lastmod>2026-11-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -592,13 +592,13 @@
   <url><loc>https://freelancerengineers.com/skill/kubernetes/</loc><lastmod>2026-11-04</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/skill/terraform/</loc><lastmod>2026-10-26</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/skill/generative-ai/</loc><lastmod>2026-11-04</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://freelancerengineers.com/skill/nodejs/</loc><lastmod>2026-11-04</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/skill/nodejs/</loc><lastmod>2026-11-05</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/skill/salesforce/</loc><lastmod>2026-11-04</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/skill/scala/</loc><lastmod>2026-10-26</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/about/</loc><lastmod>2026-10-17</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <url><loc>https://freelancerengineers.com/privacy-policy/</loc><lastmod>2026-06-16</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <url><loc>https://freelancerengineers.com/content-policy/</loc><lastmod>2026-10-17</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://freelancerengineers.com/report/</loc><lastmod>2026-11-03</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://freelancerengineers.com/report/</loc><lastmod>2026-11-05</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://freelancerengineers.com/methodology/</loc><lastmod>2026-10-17</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
 
   <url><loc>https://freelancerengineers.com/career-agents/</loc><lastmod>2026-10-17</lastmod><priority>0.7</priority><changefreq>monthly</changefreq></url>
