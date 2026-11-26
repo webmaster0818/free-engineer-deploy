@@ -300,6 +300,11 @@
   <url><loc>https://freelancerengineers.com/useful/yagou/</loc><lastmod>2026-11-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://freelancerengineers.com/useful/denshi-choubo-hozon/</loc><lastmod>2026-11-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://freelancerengineers.com/useful/kakutei-shinkoku-gensen-choshuhyo/</loc><lastmod>2026-11-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://freelancerengineers.com/useful/haigyo-todoke/</loc><lastmod>2026-11-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://freelancerengineers.com/useful/fukugyo-kojin-jigyonushi/</loc><lastmod>2026-11-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://freelancerengineers.com/useful/aoiro-shinkoku-kessansho/</loc><lastmod>2026-11-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://freelancerengineers.com/useful/furusato-nouzei-kojin-jigyonushi/</loc><lastmod>2026-11-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://freelancerengineers.com/useful/ryoshusho-hokan-kikan/</loc><lastmod>2026-11-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://freelancerengineers.com/useful/freelance-hogo-shinpo/</loc><lastmod>2026-10-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://freelancerengineers.com/useful/freelance-engineer-naruniha/</loc><lastmod>2026-10-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://freelancerengineers.com/useful/freelance-shohizei/</loc><lastmod>2026-10-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -326,7 +331,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://freelancerengineers.com/useful/invoice-system/</loc><lastmod>2026-11-26</lastmod>
+    <loc>https://freelancerengineers.com/useful/invoice-system/</loc><lastmod>2026-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -633,7 +638,7 @@
   <url><loc>https://freelancerengineers.com/skill/terraform/</loc><lastmod>2026-11-12</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/skill/generative-ai/</loc><lastmod>2026-11-12</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/skill/nodejs/</loc><lastmod>2026-11-17</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
-  <url><loc>https://freelancerengineers.com/skill/salesforce/</loc><lastmod>2026-11-26</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://freelancerengineers.com/skill/salesforce/</loc><lastmod>2026-11-22</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/skill/scala/</loc><lastmod>2026-11-12</lastmod><priority>0.8</priority><changefreq>monthly</changefreq></url>
   <url><loc>https://freelancerengineers.com/about/</loc><lastmod>2026-10-17</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <url><loc>https://freelancerengineers.com/privacy-policy/</loc><lastmod>2026-06-16</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
